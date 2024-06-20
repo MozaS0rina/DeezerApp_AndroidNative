@@ -32,3 +32,17 @@ Images:
 ![image](https://github.com/MozaS0rina/DeezerApp_AndroidNative/assets/109519501/579830e8-cb6a-4a2f-a4e4-38643f031cb5)
 ![image](https://github.com/MozaS0rina/DeezerApp_AndroidNative/assets/109519501/6d895ca6-8818-45ec-8f89-166265a2fd9b)
 
+Installation
+
+Clone the repository:
+
+git clone https://github.com/MozaS0rina/DeezerApp_AndroidNative.git
+
+cd Deezer
+
+
+Open in Android Studio: Open the project in Android Studio.
+
+Build the project: Sync and build the project to install dependencies and compile the application.
+
+Run the application: Use an emulator or a physical device to run the application.
