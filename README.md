@@ -1,6 +1,6 @@
 # DeezerApp_AndroidNative
 
-DeezerApp is a native Android application built with Kotlin that allows users to explore and enjoy music from the Deezer API. The application features a range of functionalities, from viewing music genres and artists to listening to favorite tracks and managing application settings.
+DeezerApp is a native Android application built with Kotlin that allows users to explore and enjoy music from the Deezer API. The application features a range of functionalities, from viewing music genres and artists to listening to favorite tracks and managing application settings. The project is in the master branch.
 
 
 Features
